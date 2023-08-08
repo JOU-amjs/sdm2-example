@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "element-plus": "^2.3.9",
-    "sdm2": "^1.1.2",
+    "sdm2": "^1.1.3",
     "vue": "^3.3.4"
   },
   "keywords": [],
