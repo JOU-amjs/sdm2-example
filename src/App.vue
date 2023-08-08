@@ -16,8 +16,7 @@ import Tree from './components/Tree.vue'
 .container {
   display: grid;
   grid-template-columns: repeat(2, 30%);
-  /* grid-column-gap: 20px; */
-  grid-gap: 500px 20px;
+  grid-gap: 20px;
 }
 .highlight {
   color: red;
